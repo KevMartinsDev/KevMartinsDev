@@ -1,6 +1,6 @@
 # Kevin Martins
 
-**Software Engineer | Go (Golang) · Java · Spring Boot · TypeScript · React · PostgreSQL · Docker · REST APIs | Golang Developer**
+**Software Engineer | Java · Spring Boot · TypeScript · React · PostgreSQL · Docker · REST APIs | Java Developer**
 
 ---
 
