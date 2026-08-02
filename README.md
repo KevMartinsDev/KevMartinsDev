@@ -1,6 +1,6 @@
 # Kevin Martins
 
-**Software Engineer | Java · Spring Boot · TypeScript · React · PostgreSQL · Docker · REST APIs | Java Developer**
+**Java Backend Developer | Java · Spring Boot · TypeScript · React · PostgreSQL · Docker · REST APIs**
 
 ---
 
