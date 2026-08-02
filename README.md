@@ -6,11 +6,11 @@
 
 ## Sobre mim
 
-Trabalho há 13 anos na mesma empresa, passei por reposição de estoque, pesquisa de preços competitivos e análise comercial. Durante esse tempo todo, fui estudando tecnologia por conta própria porque sempre foi o que eu queria fazer de verdade.
+Desenvolvedor Backend com foco em Java, Spring Boot e PostgreSQL.
 
-No trabalho, sou o tipo que entende o sistema inteiro antes dos outros e acaba ensinando os colegas. A maioria vem perguntar pra mim primeiro. Não porque eu forço isso, é só o jeito que eu funciono — gosto de entender como as coisas se conectam.
+Desenvolvo projetos próprios aplicando boas práticas de programação, programação orientada a objetos (OOP), estruturas de dados e algoritmos, utilizando Git para versionamento e organização do desenvolvimento por meio de roadmaps.
 
-Agora estou construindo a base técnica para trabalhar como desenvolvedor backend. Uso IA como ferramenta no dia a dia de estudo e desenvolvimento, não como muleta.
+Busco minha primeira oportunidade como Desenvolvedor Backend Júnior, com o objetivo de contribuir para a equipe enquanto continuo evoluindo tecnicamente.
 
 ---
 
