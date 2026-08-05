@@ -6,9 +6,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Backend com foco em Java, Spring Boot e PostgreSQL.
-
-Desenvolvo projetos próprios aplicando boas práticas de programação, programação orientada a objetos (OOP), estruturas de dados e algoritmos, utilizando Git para versionamento e organização do desenvolvimento por meio de roadmaps.
+Sou desenvolvedor backend com foco em Java e Spring Boot, construindo APIs REST e aplicações voltadas para boas práticas de desenvolvimento.
 
 Busco minha primeira oportunidade como Desenvolvedor Backend Júnior, com o objetivo de contribuir para a equipe enquanto continuo evoluindo tecnicamente.
 
